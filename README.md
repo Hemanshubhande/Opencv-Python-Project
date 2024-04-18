@@ -56,7 +56,8 @@ This Python script uses OpenCV and MobileNet SSD to perform real-time object det
     - The resulting frame with detected objects is displayed.
     - Press `q` to exit the application.
  
-    - ### Object Detection in Robotics: Application of MobileNet SSD with OpenCV
+
+### Object Detection in Robotics: Application of MobileNet SSD with OpenCV
 
 #### Introduction
 
